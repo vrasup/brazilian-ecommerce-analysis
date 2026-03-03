@@ -296,7 +296,7 @@ real business intuition.
 
 ## 📬 Connect
 
-**LinkedIn:** [https://www.linkedin.com/posts/vidhya-rasu-74a9b31a5_dataanalytics-sql-powerbi-activity-7434614411245469696-dljA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADAGD2oBe0MTbjIdTWmtLFyFNgz6dcAwWHA]  
+**LinkedIn:** [https://www.linkedin.com/posts/vidhya-rasu-74a9b31a5_dataanalytics-sql-powerbi-activity-7434617542486241281-THPX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADAGD2oBe0MTbjIdTWmtLFyFNgz6dcAwWHA]  
 **GitHub:** [https://github.com/vrasup/brazilian-ecommerce-analysis]
 
 ---
