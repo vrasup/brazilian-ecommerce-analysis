@@ -256,7 +256,6 @@ Built a **4-page interactive dashboard** connecting directly to MySQL:
 - Offer onboarding support for sellers outside SP  
 - Create regional seller incentive programs  
 **Expected Impact:** Improve delivery times for non-SP customers
-```
 
 ---
 
@@ -281,7 +280,6 @@ Open powerbi/brazil_ecommerce_dashboard.pbix
 Connect to your local MySQL instance
 Refresh data
 ```
-
 ---
 
 ## 👩‍💼 About This Project
