@@ -1,6 +1,6 @@
 # 🛒 Brazilian E-Commerce Analytics | End-to-End Data Analysis Project
 
-## 📌 Project Overview
+## Project Overview
 
 This project performs a complete end-to-end data analysis on the 
 **Olist Brazilian E-Commerce dataset** — one of the most comprehensive 
@@ -11,7 +11,7 @@ The analysis covers the full data analyst workflow:
 **Data Cleaning → Exploratory Data Analysis → SQL Analysis → Power BI Dashboard**
 
 ---
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Page 1 — Executive Overview
 ![Executive Overview](images/dashboard_page1_executive.png)
@@ -27,7 +27,7 @@ The analysis covers the full data analyst workflow:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -67,7 +67,7 @@ brazilian-ecommerce-analysis/
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 - **Source:** [Olist Brazilian E-Commerce - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Period:** September 2016 — August 2018
@@ -85,7 +85,7 @@ brazilian-ecommerce-analysis/
 
 ---
 
-## 🔍 Phase 1 — Data Cleaning
+## Phase 1 — Data Cleaning
 
 Performed in Python using Pandas:
 
@@ -98,7 +98,7 @@ Performed in Python using Pandas:
 
 ---
 
-## 📈 Phase 2 — Exploratory Data Analysis
+## Phase 2 — Exploratory Data Analysis
 
 Key statistics discovered:
 
@@ -118,7 +118,7 @@ to over 7,000 orders/month by late 2017.
 
 ---
 
-## 🗄️ Phase 3 — SQL Analysis
+## Phase 3 — SQL Analysis
 
 Designed and queried a **7-table relational database** in MySQL.
 Used advanced SQL techniques including:
@@ -147,7 +147,7 @@ Used advanced SQL techniques including:
 
 ---
 
-## 📊 Phase 4 — Power BI Dashboard
+## Phase 4 — Power BI Dashboard
 
 Built a **4-page interactive dashboard** connecting directly to MySQL:
 
@@ -177,7 +177,7 @@ Built a **4-page interactive dashboard** connecting directly to MySQL:
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 ### 🗺️ Geography
 - **São Paulo dominates** — 42% of customers, 37% of revenue
@@ -207,9 +207,9 @@ Built a **4-page interactive dashboard** connecting directly to MySQL:
 
 ---
 
-## 📋 Business Recommendations
+## Business Recommendations
 
-### 1. 🎯 Customer Retention Program
+### 1.Customer Retention Program
 **Problem:** 0% repeat customers — every customer orders exactly once  
 **Recommendation:** Implement a loyalty rewards program  
 - Offer discount vouchers after first purchase  
@@ -217,7 +217,7 @@ Built a **4-page interactive dashboard** connecting directly to MySQL:
 - Target SP, RJ, MG customers first — highest volume states  
 **Expected Impact:** Even 10% repeat rate = R$1.5M additional revenue
 
-### 2. 🚚 Delivery Improvement — North Region
+### 2.Delivery Improvement — North Region
 **Problem:** RR, AP, AM averaging 26-29 days delivery  
 **Recommendation:** Partner with regional logistics providers  
 - Establish regional warehouses in Manaus (AM)  
@@ -225,7 +225,7 @@ Built a **4-page interactive dashboard** connecting directly to MySQL:
 - Set realistic delivery estimates for northern customers  
 **Expected Impact:** Reduce north region delivery time by 30-40%
 
-### 3. ⭐ Review Score Improvement
+### 3.Review Score Improvement
 **Problem:** 11K 1-star reviews — more than 2 and 3 star combined  
 **Recommendation:** Investigate root cause of 1-star reviews  
 - Analyze if 1-star reviews correlate with late deliveries  
@@ -233,7 +233,7 @@ Built a **4-page interactive dashboard** connecting directly to MySQL:
 - Implement seller performance monitoring system  
 **Expected Impact:** Improve avg score from 4.09 to 4.3+
 
-### 4. 💳 Payment Diversification
+### 4.Payment Diversification
 **Problem:** 78% credit card dependency — risk concentration  
 **Recommendation:** Promote alternative payment methods  
 - Offer discounts for Pix payments (instant Brazilian payment)  
@@ -241,7 +241,7 @@ Built a **4-page interactive dashboard** connecting directly to MySQL:
 - Expand debit card acceptance — currently only 1.47%  
 **Expected Impact:** Reach underbanked Brazilian population
 
-### 5. 🗺️ Geographic Expansion
+### 5.Geographic Expansion
 **Problem:** Southeast Brazil = 66% of revenue — concentration risk  
 **Recommendation:** Target underserved regions  
 - Marketing campaigns targeting Northeast states (BA, CE, PE)  
@@ -249,7 +249,7 @@ Built a **4-page interactive dashboard** connecting directly to MySQL:
 - Offer free shipping promotions for new regions  
 **Expected Impact:** Reduce SP dependency from 42% to 35%
 
-### 6. 📦 Seller Development
+### 6.Seller Development
 **Problem:** SP sellers = R$10.2M — 90% of top seller revenue  
 **Recommendation:** Diversify seller base geographically  
 - Recruit quality sellers from PR, MG, RJ  
@@ -259,7 +259,7 @@ Built a **4-page interactive dashboard** connecting directly to MySQL:
 
 ---
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 ### Python/Jupyter:
 ```bash
@@ -282,7 +282,7 @@ Refresh data
 ```
 ---
 
-## 👩‍💼 About This Project
+## About This Project
 
 This project was built **independently** without following a course or 
 tutorial — every design decision, debugging challenge, and analytical 
@@ -294,7 +294,7 @@ real business intuition.
 
 ---
 
-## 📬 Connect
+## Connect
 
 **LinkedIn:** [https://www.linkedin.com/posts/vidhya-rasu-74a9b31a5_dataanalytics-sql-powerbi-activity-7434617542486241281-THPX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADAGD2oBe0MTbjIdTWmtLFyFNgz6dcAwWHA]  
 **GitHub:** [https://github.com/vrasup/brazilian-ecommerce-analysis]
